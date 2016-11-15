@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+
+    <style>
+      html, body {
+        height: 100%;
+        padding: 0;
+        margin: 0;
+      }
+      #container {
+        position: relative;
+        overflow: hidden;
+        min-width: 700px;
+        max-width: 700px;
+        height: 2000px;
+        text-align: left;;
+        line-height: normal;
+        z-index: 0;
+        font-family: Helvetica, sans-serif;
+        font-size: 12px;
+        margin: 0 auto;
+      }
+    
+      img{ width:500px}
+
+    </style>
+  </head>
+
+  <body>
+
+    <div id="container">
+    <h2>Style Guide</h2>
+
+<h3>
+  Types of visualization</h3>
+<img src="https://github.com/Siqi77/assignment10/blob/master/Screen%20Shot%202016-11-15%20at%203.06.15%20PM%E5%89%AF%E6%9C%AC.jpg?raw=true" />
+<img src="https://github.com/Siqi77/assignment10/blob/master/Screen%20Shot%202016-11-15%20at%203.17.03%20PM%E5%89%AF%E6%9C%AC.jpg?raw=true" />
+<img src="https://github.com/Siqi77/assignment10/blob/master/Screen%20Shot%202016-11-15%20at%203.22.53%20PM%E5%89%AF%E6%9C%AC.jpg?raw=true" />
+<img src="https://github.com/Siqi77/assignment10/blob/master/Screen%20Shot%202016-11-15%20at%204.09.41%20PM%E5%89%AF%E6%9C%AC.jpg?raw=true" />
+<p>
+<h3>I have 3 or 4 visualiations that I want to create</h3>
+
+<li>
+  <h4>Dot Cluster</h4>
+  <p>I don`t know the name of this diagram,it will be like <a href="https://www.theguardian.com/society/ng-interactive/2015/feb/05/-sp-watch-how-measles-outbreak-spreads-when-kids-get-vaccinated"> the measles outbreak spreads.</a>This helps me shows the activity of differnt spaces.This little dots blinks based on the activity. The strongest one means many seniors go to this place during this time. </p>
+  <p> I haven`t figure out whihc tool is for this motion diagram. 
+<li>
+  <h4>Time line</h4>
+  <p> I want to use time line to show the seniors activities in differnt public spaces from January to December.</p>
+  <p> I will use the timeline tool  <a href="http://timeline.knightlab.com/"> Timeline JS in knightlab. </a>
+  </li>
+<li>
+  <h4> Network Diagram</h4>
+    <p> Then i want to use network diagram to show the shift movement from one place to another place.</p>
+    <p> I will use the tool- <a href="http://marvl.infotech.monash.edu/webcola/examples/brainnetwork2.html" >Multidimension scaling </a>.
+  </li>
+<li>
+  <h4> Bullet Graph</h4>
+  <p> At the end, i would like to use the bullet graph to show the conclusion of these, which elements will influce seniors activities.</p>
+  <p> The tool i would like to use <a href="https://visage.co/"> this website.
+</li>
+
+
+
+  <h2>The draft of my project </h2>
+  <h4> Description of the concept</h4>
+  <p> This project is going to show the activity of elderly a certain 
+community by documenting the basic information of where they go every day. This data will help the organizaer know the activity of 
+different public space and how it shifts from month to month, from that there might be some patterns show up about the reason of the shift. </p>
+
+   <img src="https://github.com/Siqi77/assignment10/blob/master/Data%20Viz%20assignment9-04.jpg?raw=true" />
+   <img src="https://github.com/Siqi77/assignment10/blob/master/Data%20Viz%20assignment9-05.jpg?raw=true" />
+   <img src="https://github.com/Siqi77/assignment10/blob/master/Data%20Viz%20assignment9-06.jpg?raw=true" />
+   <img src="https://github.com/Siqi77/assignment10/blob/master/Data%20Viz%20assignment9-07.jpg?raw=true" />
+   <img src="https://github.com/Siqi77/assignment10/blob/master/Data%20Viz%20assignment9-08.jpg?raw=true" />
+   
+   
+</div>
+
+
+
+
+    <script>
+    </script>
+  </body>
+</html>
